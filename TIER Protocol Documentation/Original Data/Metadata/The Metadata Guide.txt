@@ -1,0 +1,6 @@
+Originalny plik danych weather.txt zaweira dane Global Historical Climatology Network dla jednej stacji pogodowej (MX17004) 
+w Meksyku od kwietnia 1955 roku. 
+W pierwszej kolumnie znajduje się string, zawierający informację o id stacji,
+roku oraz miesiącu przeprowadzenia pomiarow oraz rodzaju danych w wierszu.
+W dalszych kolumnach znajduja się dane z kolejnych dni miesiąca.
+W przypadku braku danych w komórce znajduje się liczba -9999.

@@ -1,0 +1,12 @@
+first_data.txt:
+W pierwszej kolumnie znajduje się id stacji.
+W drugiej kolumnie znajduje się rok pomiaru.
+W trzeciej kolumnie znajduje się miesiąc pomiaru.
+W czwartej kolumnie znajduje się informacja czy dany pomiar to temperatura maksymalna czy minimalna.
+W kolejnych kolumnach znajsuja się pomiary z kolejnych dni, w przypadku braku pomiaru liczba -9999.
+
+melt.txt:
+W pierwszej kolumnie znajduje się id stacji.
+W drugiej kolumnie znajduje się informacja czy dany pomiar to temperatura maksymalna czy minimalna.
+W trzeciej kolumnie znajduje się wynik pomiaru.
+W czwartej kolumnie znajduje się data wykonania pomiaru.

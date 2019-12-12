@@ -1,0 +1,5 @@
+Wszystkie pliki potrzebne do uzykania finalnej wersji pliku znajduja się w folderze Command Data.
+W celu ponownego uzyskania finalnych danych należy:
+- otworzyć program first.py, ustawić ścieżkę pliku wejściowego na plik z oryginalnymi danymi, ścieżkę pliku wyjściowego na plik first_data.txt i uruchomić program
+- otworzyć program second.py, ustawić ścieżkę pliku wejściowego na plik first_data.txt, ścieżkę pliku wyjściowego na plik melt.txt i uruchomić program
+- otworzyć program final.py, ustawić ścieżkę pliku wejściowego na plik melt.txt, ścieżkę pliku wyjściowego na plik Final Paper.txt i uruchomić program
